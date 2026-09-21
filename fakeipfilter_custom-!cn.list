@@ -1,0 +1,11 @@
+#Cloudflare
++.api.cloudflare.com
+
+#Brevo SMTP
+smtp-relay.brevo.com
+
+#Akamai CDN
+*.akamaihd.net
+
+#Wifi Calling / 3GPP
+*.3gppnetwork.org
